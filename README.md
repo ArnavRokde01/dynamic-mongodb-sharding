@@ -1,6 +1,6 @@
 # MongoDB Sharding AWS CDK Project
 
-This project leverages AWS CDK with Python to deploy infrastructure required for setting up a dynamic MongoDB sharding cluster on AWS. The project includes EC2 instances for MongoDB shard servers, router, and config servers, a Lambda function for creating additional EC2 instances dynamically, and other essential configurations.
+This project leverages AWS CDK with Python to deploy infrastructure required for setting up a dynamic MongoDB sharding cluster on AWS. The project includes EC2 instances for MongoDB shard servers, router, and config servers, a Lambda function for creating additional EC2 instances dynamically, and other essential configurations. Follow the steps below.
 
 ## Project Structure
 
